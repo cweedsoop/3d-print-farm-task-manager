@@ -58,7 +58,3 @@ Planned improvements include:
 - Cross-platform GUI using Qt
 - API integration for real-time printer status
 - Mobile companion app with live sync
-
-## 💡 Why This Exists
-
-This tool was built from scratch to meet a real operational need at SimSportGadget, a sim racing accessory company with an expanding print farm. Commercial print management software was too expensive, complex, or inflexible—so this app was created to deliver core functionality with a gentler learning curve and better customizability.
