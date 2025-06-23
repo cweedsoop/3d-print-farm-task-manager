@@ -33,7 +33,7 @@ git clone https://github.com/jingfu-peng/3d-print-farm-task-manager
 
 ### 📁 Sample Data
 
-The repository includes pre-filled sample data files in the `/data` directory. These allow you to explore the application's core functionality without needing to manually register users or configure printers and products.
+The repository includes pre-filled sample data files. These allow you to explore the application's core functionality without needing to manually register users or configure printers and products.
 
 - **Default Login Credentials:**
 - **Username:** `asdf`
@@ -41,7 +41,7 @@ The repository includes pre-filled sample data files in the `/data` directory. T
 
 ### ⚠️ Note on Sample Data
 
-Please avoid manually editing the files in the `/data` directory.  
+Please avoid manually editing the data files.  
 These files follow a specific format expected by the application, and changing them directly may result in errors or corrupted states.
 
 ## 📌 Current Limitations
