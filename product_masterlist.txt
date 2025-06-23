@@ -1,0 +1,36 @@
+4
+1013
+9
+cup holder
+1001
+1
+red
+null
+1
+abs
+
+9
+asdf
+1010
+1
+red
+null
+1
+red
+
+9
+cable cover
+1009
+2
+asdf
+asdf
+null
+0
+
+7
+jingfu
+1011
+0
+null
+0
+
