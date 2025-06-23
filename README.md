@@ -27,7 +27,7 @@ git clone https://github.com/jingfu-peng/3d-print-farm-task-manager
 ```
 2. Open the `.cpp` files in your preferred IDE (e.g., Visual Studio 2022).
 
-3. Compile and run `main.cpp`.
+3. Compile and run `Task_Manager.cpp`.
 
 > ⚠ Note: The project uses file I/O for persistent state. On first run, it will generate data files in the working directory.
 
