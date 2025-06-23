@@ -62,9 +62,3 @@ Planned improvements include:
 ## 💡 Why This Exists
 
 This tool was built from scratch to meet a real operational need at SimSportGadget, a sim racing accessory company with an expanding print farm. Commercial print management software was too expensive, complex, or inflexible—so this app was created to deliver core functionality with a gentler learning curve and better customizability.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-See the [LICENSE](LICENSE) file for full details.
