@@ -35,7 +35,7 @@ git clone https://github.com/jingfu-peng/3d-print-farm-task-manager
 
 The repository includes pre-filled sample data files. These allow you to explore the application's core functionality without needing to manually register users or configure printers and products.
 
-- **Default Login Credentials:**
+**Default Login Credentials:**
 - **Username:** `asdf`
 - **Password:** `asdf`
 
